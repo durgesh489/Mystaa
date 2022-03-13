@@ -1,0 +1,15 @@
+String registerApi = "https://mystaa.com/api/signup";
+String loginApi = "https://mystaa.com/api/login";
+String categoriesApi = "https://mystaa.com/api/categories";
+String featuredProductsApi = "https://mystaa.com/api/featured";
+String bannerProductsApi =
+    "https://mystaa.com/api/banner?banner_type=Main Banner";
+String latestProductsApi = "https://mystaa.com/api/latest";
+String brandsApi = "https://mystaa.com/api/brand";
+String searchApi = "https://mystaa.com/api/search";
+String topRatedProducts = "https://mystaa.com/api/top-rated";
+String bestSellingProducts = "http://mystaa.com/api/bestsellings";
+String cartApi = "mystaa.com/api/cart";
+String cartAddApi = "mystaa.com/api/cart/add";
+String cartUpdateApi = "mystaa.com/api/cart/update";
+String cartDeleteApi = "mystaa.com/api/cart/remove";
